@@ -6,6 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     background:radial-gradient(circle,#fff1a4,#ffed8a,#ffe44d,gold);
+    
 }
 
 h1{
@@ -14,11 +15,11 @@ h1{
 
 .content{
     width: 90%;
-    height: 95%;
+    height: 100%;
 }
 .content-work{
     width: 620px;
-    height: 99%;
+    height: 100%;
     margin: 0 auto;
     background-color: beige;
 }
